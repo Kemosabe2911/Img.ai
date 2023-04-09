@@ -17,7 +17,7 @@ const CreatePosts = () => {
   const [loading, setLoading] = useState(false)
 
   const generateImage = () => {
-
+    
   }
 
   const handleSubmit = () => {
